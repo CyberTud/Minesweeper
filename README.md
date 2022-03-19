@@ -1,2 +1,2 @@
 # Minesweeper
-Minesweeper game in C# 
+Minesweeper game in .NET
